@@ -1,6 +1,5 @@
 import { Student } from './index'
 import moment from 'moment'
-import mongoose from 'mongoose'
 
 describe('Student model', () => {
   describe('schema', () => {
