@@ -21,7 +21,7 @@
 - The client will open in your default browser at `http://localhost:300`
 
 
-## Run test
+## Run tests
 
 - `cd server` and run `yarn test or npm run test` for all tests
 - for specific test `cd server` and :
