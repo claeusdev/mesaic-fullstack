@@ -19,3 +19,12 @@
 - At the root of the repo run:
   - `./start.sh`
 - The client will open in your default browser at `http://localhost:300`
+
+
+## Run test
+
+- `cd server` and run `yarn test or npm run test` for all tests
+- for specific test `cd server` and :
+  * run `yarn test-models` to run model tests
+  * run `yarn test-routes` to run route tests
+  * run `yarn test-controllers` to run controller tests
