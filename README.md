@@ -18,7 +18,7 @@
   - `chmod +x start.sh`.
 - At the root of the repo run:
   - `./start.sh`
-- The client will open in your default browser at `http://localhost:300`
+- The client will open in your default browser at `http://localhost:3000`
 
 
 ## Run tests
